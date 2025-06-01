@@ -1,0 +1,1 @@
+-- Database schema for the starter kit. Populate as needed.
